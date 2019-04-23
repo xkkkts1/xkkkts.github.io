@@ -1,0 +1,32 @@
+.name {
+    background: black;
+    height: 300px;
+    margin: 1px;
+  }
+  .container {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(100px, auto));
+    grid-gap: 10px;
+    max-width: 920px;
+    margin: 0 auto;
+    
+  }
+  header h1 {
+    text-align: center;
+  }
+  .name-one {
+    background: 
+      url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo-doMeVJjxNBYhAz36-0RTAIDTZw0ygKzU5BDn2bM8lc7qv_p);
+    background-size: cover;
+  }
+  .two {
+    background-color: #329691;}
+  .three {
+      background:
+        url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR402aky8S5CV-1KeyUkT1s74vwqrc1lA51IlaOa1E9qT2tS4_qSQ)
+    }
+  h1{font-family: century-gothic}
+  
+  
+  
+  
